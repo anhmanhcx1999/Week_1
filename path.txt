@@ -1,0 +1,2 @@
+/home/linus/prj_abc/1.jpg
+/Users/lamhoangtung/Desktop/test.py
